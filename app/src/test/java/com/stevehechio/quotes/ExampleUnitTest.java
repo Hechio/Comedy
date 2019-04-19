@@ -1,4 +1,4 @@
-package com.example.note;
+package com.stevehechio.quotes;
 
 import org.junit.Test;
 

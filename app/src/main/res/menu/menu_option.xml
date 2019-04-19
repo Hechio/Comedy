@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+     <item android:id="@+id/about" android:title="@string/about" android:icon="@drawable/ic_announcement_black_24dp" app:showAsAction="never"/>
+    <item android:id="@+id/feedback" android:title="@string/feedback" android:icon="@drawable/ic_feedback_black_24dp" app:showAsAction="never"/>
+    <item android:id="@+id/rate" android:title="@string/rate" android:icon="@drawable/ic_star_black_18dp" app:showAsAction="never"/>
+    <item android:id="@+id/share" android:title="@string/share" android:icon="@drawable/ic_share_black_24dp" app:showAsAction="never"/>
+</menu>

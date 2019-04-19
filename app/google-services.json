@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1064389167629",
+    "firebase_url": "https://jalang-o-quotes.firebaseio.com",
+    "project_id": "jalang-o-quotes",
+    "storage_bucket": "jalang-o-quotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064389167629:android:b70e1a2ad8696b5c",
+        "android_client_info": {
+          "package_name": "com.stevehechio.quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064389167629-hmk2roamsqqbmldub3oj3el0d592ms54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stevehechio.quotes",
+            "certificate_hash": "626c574a65117d893d072bfd4d82390cdf4f1b72"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjKaAGt7NRxlYRjWEVscAOKTpVTWFpMis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064389167629-mh76el414cutrvhk9vd3jsgtlpn9p2fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
